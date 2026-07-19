@@ -5,7 +5,7 @@ date: 2026-06-20
 
 # First Post
 
-Here's an example musing. You can embed anything inline:
+Here's an example. You can embed anything inline:
 
 ## An image
 
