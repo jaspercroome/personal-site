@@ -26,4 +26,6 @@ But it's come at a cost for me. When I'm in `create mode`, all I do now is read.
 On a good day, the split in `create mode` between reading and writing was probably 90/10 - 90% writing code, 10% reading error messages and docs. Now, that's flipped - 10% promptcraft, 90% reading. Reading responses, still reading error messages (although a lot less), reading ai generated PR review descriptions, reading agent reviews of PRs, reading code. It's a net-positive for my productivity - I'm able to crank out a week-sized feature in an afternoon of focused reading, but it's an entirely different experience from what it was 24 months ago. I've let go of my attempt to balance out the rich inputs in my life with the hard output of direct creation.
 
 ## declaration
-So now, weekends are for writing. No AI "prompt me somethig to write about". No "review this essay, is it coherent?" (as if it isn't obvious). Weekends are for getting the brain used to direct ownership and creation of thoughts again. Weekends are for jumping back into `create mode`. Weekends are for rediscovering the balance. Weekends are for writing.
+So now, weekends are for writing. No AI "prompt me somethig to write about". No "review this essay, is it coherent?" (as if it isn't obvious). Weekends are for getting the brain used to direct ownership and creation of thoughts again. Weekends are for jumping back into `create mode`. Weekends are for rediscovering the balance. 
+
+Weekends are for writing.
