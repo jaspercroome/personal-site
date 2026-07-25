@@ -1,0 +1,26 @@
+---json
+{
+  "permalink": "feed.xml",
+  "eleventyExcludeFromCollections": true
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jasper's Musings</title>
+  <link href="https://jaspercroo.me/feed.xml" rel="self"/>
+  <link href="https://jaspercroo.me/"/>
+  <updated>{{ collections.musings | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>https://jaspercroo.me/</id>
+  <author>
+    <name>Jasper</name>
+  </author>
+  {%- for post in collections.musings | reverse %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="https://jaspercroo.me{{ post.url }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>https://jaspercroo.me{{ post.url }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls("https://jaspercroo.me" + post.url) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
