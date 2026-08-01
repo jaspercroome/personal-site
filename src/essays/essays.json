@@ -1,4 +1,4 @@
 {
   "tags": "essays",
-  "layout": "base.njk"
+  "layout": "essay.njk"
 }
