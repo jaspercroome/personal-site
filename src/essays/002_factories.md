@@ -1,7 +1,7 @@
 ---
 title: I don't want to work in a factory
 date: 2026-07-25
-draft: true
+draft: false
 ---
 
 # I don't want to work in a factory
