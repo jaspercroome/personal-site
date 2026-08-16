@@ -1,9 +1,9 @@
 ---
 title: weekends are for writing
 date: 2026-07-19
+description: "AI has flipped the reading-to-writing ratio for developers. Weekends are for reclaiming the joy of direct creation."
 ---
 
-# 
 ## the joy and anguish of creation
 Coming up as a developer, a big chunk of every single day was set aside for creating, for making. I got to experience first-hand the joy and frustration of mashing things together and seeing if they worked. For me, that's how I learned so that's how I developed a sense of proficiency as well as a sense of place within whatever I was creating. "React and d3 don't play well together, so have d3 do the math and react control the DOM" <-- hard-earned, blood sweat and tears attempting to make dataviz work is how I got that model burned into my head. I'm sure there's others rattling around up there, but they escape me and run the risk of rabbit-holing this first attempt at an essay, so we'll leave it be.
 

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Essays
+description: "Essays on software development, AI-first workflows, and the evolving craft of building things."
 permalink: /essays/
 ---
 
@@ -8,6 +9,8 @@ permalink: /essays/
 
 <ul>
 {%- for post in collections.essays | reverse %}
+    {% if post.url != '/essays/' %}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {% endif %}
 {%- endfor %}
 </ul>

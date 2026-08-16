@@ -3,7 +3,62 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }}</title>
+
+  {# Dynamic title #}
+  {% if title and title != "Home" %}
+  <title>{{ title }} | Jasper Croome</title>
+  {% else %}
+  <title>Jasper Croome</title>
+  {% endif %}
+
+  {# Meta description #}
+  {% if description %}
+  <meta name="description" content="{{ description }}">
+  {% else %}
+  <meta name="description" content="Jasper Croome – tech builder based outside Portland, Oregon. Thoughts on software, AI-first development, and the creative process.">
+  {% endif %}
+
+  {# Canonical URL #}
+  <link rel="canonical" href="https://jaspercroo.me{{ page.url }}">
+
+  {# Open Graph #}
+  <meta property="og:type" content="{% if layout == 'essay.njk' %}article{% else %}website{% endif %}">
+  {% if title and title != "Home" %}
+  <meta property="og:title" content="{{ title }} | Jasper Croome">
+  {% else %}
+  <meta property="og:title" content="Jasper Croome">
+  {% endif %}
+  {% if description %}
+  <meta property="og:description" content="{{ description }}">
+  {% else %}
+  <meta property="og:description" content="Jasper Croome – tech builder based outside Portland, Oregon. Thoughts on software, AI-first development, and the creative process.">
+  {% endif %}
+  <meta property="og:url" content="https://jaspercroo.me{{ page.url }}">
+  {% if ogImage %}
+  <meta property="og:image" content="https://jaspercroo.me{{ ogImage }}">
+  {% else %}
+  <meta property="og:image" content="https://jaspercroo.me/images/og-image.jpg">
+  {% endif %}
+  <meta property="og:site_name" content="Jasper Croome">
+
+  {# Twitter Card #}
+  <meta name="twitter:card" content="summary_large_image">
+  {% if title and title != "Home" %}
+  <meta name="twitter:title" content="{{ title }} | Jasper Croome">
+  {% else %}
+  <meta name="twitter:title" content="Jasper Croome">
+  {% endif %}
+  {% if description %}
+  <meta name="twitter:description" content="{{ description }}">
+  {% else %}
+  <meta name="twitter:description" content="Jasper Croome – tech builder based outside Portland, Oregon. Thoughts on software, AI-first development, and the creative process.">
+  {% endif %}
+  {% if ogImage %}
+  <meta name="twitter:image" content="https://jaspercroo.me{{ ogImage }}">
+  {% else %}
+  <meta name="twitter:image" content="https://jaspercroo.me/images/og-image.jpg">
+  {% endif %}
+
   <style>
     body { font-family: system-ui, sans-serif; max-width: 640px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
     nav { margin-bottom: 2rem; }
