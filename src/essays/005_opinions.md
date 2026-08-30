@@ -5,11 +5,11 @@ draft: false
 description: "To build software is to have an opinion"
 ---
 
-Some of the most skilled software developers that I know of are also strong writers. I've never really thought too much about it until recently, when Thorsten Ball made me want a hamburger while also describing a new feature release from Amp. Then Steve Yegge wrote another post from 6 months beyond the frontier of agentic development. 
+Some of the most skilled software developers that I know of are also strong writers. I've never really thought too much about it until recently, when Thorsten Ball [made me want a hamburger](https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs) while also describing a new feature release from Amp. Then Steve Yegge wrote another post from [6 months beyond the frontier of agentic development](https://yegge.ai/essays/model-welfare/). 
 
 ## Blame DHH
 
-And then, a few days ago while listening to DHH share his updated stance on AI, it hit me - The act of building software is the act of forming an opinion. 
+And then, a few days ago while listening to DHH [share his updated stance on AI](https://www.youtube.com/watch?v=NYFGCESmikA), it hit me - The act of building software is the act of forming an opinion. 
 
   "This is the way a coding harness should perform." 
 
