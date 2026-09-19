@@ -1,7 +1,7 @@
 ---
 title: On AI Safety
 date: 2026-09-19
-draft: true
+draft: false
 description: "Being sincere doesn't mean you're right"
 ---
 
