@@ -26,7 +26,7 @@ Now, with the afore-mentioned **unreasonable model**, we sling world-changing id
 
 At Aarden, we used this approach recently to completely re-vamp how we render map layers within our product. It started with a prompt in the tone of "I want to make our map on the explore page best-in-class, performance-wise". After a weekend of nudging, checking-in and slight course-correcting, we ended up with a new approach to rendering map layers that is orders of magnitude more performant both in time to render and amount of data rendered.
 
-To get that idea to actually survive in the harsh world of real users, competition, and code rot, you need to relentlessly monitor usage, refine functionality, and harden your idea.
+But once you ship your idea, the game isn't over. To get that idea to actually survive in the harsh world of real users, competition, and code rot, you need to relentlessly monitor usage, refine functionality, and harden your idea.
 
 That grind is what comes next, and that's what software factories are perfectly suited for. 
 
