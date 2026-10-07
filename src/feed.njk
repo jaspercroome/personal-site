@@ -9,12 +9,13 @@
   <title>Jasper's Musings</title>
   <link href="https://jaspercroo.me/feed.xml" rel="self"/>
   <link href="https://jaspercroo.me/"/>
-  <updated>{{ collections.musings | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <updated>{{ collections.essays | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>https://jaspercroo.me/</id>
   <author>
     <name>Jasper</name>
   </author>
-  {%- for post in collections.musings | reverse %}
+  {%- for post in collections.essays | reverse %}
+  {%- if post.url != '/essays/' %}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="https://jaspercroo.me{{ post.url }}"/>
@@ -22,5 +23,6 @@
     <id>https://jaspercroo.me{{ post.url }}</id>
     <content type="html">{{ post.templateContent | htmlToAbsoluteUrls("https://jaspercroo.me" + post.url) }}</content>
   </entry>
+  {%- endif %}
   {%- endfor %}
 </feed>
