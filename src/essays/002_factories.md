@@ -34,4 +34,4 @@ I want to design a system that is flexible and powerful, where I can spin up a t
 
 That sounds nothing like a factory. That sounds like a fleet of human-centric, multiverse-powered deployment nodes, each with a tiger team of development robots.
 
-Maybe that's why the term 'software factory' has so much caché right now! It's easy, maps to something we all know, and lines up with the idea of ai being the next revolution. Whichever way you slice it, the thing I need is not a factory. It's something else entirely.
+Maybe that's why the term 'software factory' has so much cachet right now! It's easy, maps to something we all know, and lines up with the idea of ai being the next revolution. Whichever way you slice it, the thing I need is not a factory. It's something else entirely.

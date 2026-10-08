@@ -5,10 +5,10 @@ draft: false
 description: "Being sincere doesn't mean you're right"
 ---
 
-TL;DR - AI is not going to kill us all. There is a non-zero chance it ends up being disruptive and damaging to society, but total human annhilation is not on the table.
+TL;DR - AI is not going to kill us all. There is a non-zero chance it ends up being disruptive and damaging to society, but total human annihilation is not on the table.
 
 ## everyone's looking at us, claude
-The western world's attention was captured recently when an AI safety researcher with stints at Anthropic and OpenAI [resigned and tweeted about it](https://x.com/hilbertspaess/status/2097476196791709843?s=20) (173M views! holy shit). The reason he gave was that these companies aren't taking AI safety seriously enough, and ensuing tweets from another employee at Anthropic confirmed there's a widely held belief within the company that AI has a [>10% chance of killing us all](https://x.com/EvanHub/status/2097497037956891126?s=20) within the next decade (42M views!). Understandably, this was concerning for most. The folks who are working on our most advanced pieces of software also think that there's a on-in-ten chance it kills us all? awesome.
+The western world's attention was captured recently when an AI safety researcher with stints at Anthropic and OpenAI [resigned and tweeted about it](https://x.com/hilbertspaess/status/2097476196791709843?s=20) (173M views! holy shit). The reason he gave was that these companies aren't taking AI safety seriously enough, and ensuing tweets from another employee at Anthropic confirmed there's a widely held belief within the company that AI has a [>10% chance of killing us all](https://x.com/EvanHub/status/2097497037956891126?s=20) within the next decade (42M views!). Understandably, this was concerning for most. The folks who are working on our most advanced pieces of software also think that there's a one-in-ten chance it kills us all? awesome.
 
 ## what does AI safety even do?
 At these frontier AI labs, AI safety teams are focused religiously on risk. They're constantly assessing models, both current and unreleased, in different scenarios. They think about how the models might escape containment, how they might cause damage to society, how they might disrupt our modern, technology-driven world.

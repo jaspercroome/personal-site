@@ -5,10 +5,10 @@ draft: false
 description: "Software factories aren't wrong, they're incomplete."
 ---
 
-I've written before about software factories and how they're the wrong form factor for most dev shops. I overstated the gap, though: Software factories aren't wrong, they're incomplete. If you're focused on throughput, that's great. But look around you, my brothers and sisters - the throughput isn't all of the problem. Nobody needs MOAR FUNCTIONS, we need more ambitious products and we need more control of those product's quality. 
+I've written before about software factories and how they're the wrong form factor for most dev shops. I overstated the gap, though: Software factories aren't wrong, they're incomplete. If you're focused on throughput, that's great. But look around you, my brothers and sisters - the throughput isn't all of the problem. Nobody needs MOAR FUNCTIONS, we need more ambitious products and we need more control of those products' quality. 
 
 ## Ambition is the whole game
-Back in July, Thariq Shihipar of Anthropic went onstage at AIE Worlds Fair and gave a banger of a talk titled [Field Guide to Fable](https://ai.engineer/talks/9fubhllmsBU-field-guide-to-fable). In it, he speaks about how he works with this latest batch of frontier models, specifically Fable 5. The line of his that really stuck with me from this presentation is to 'Be Unreasonable'. This is such a gem of a line, and it's going to age very, very well for 2 distinct reasons. 
+Back in July, Thariq Shihipar of Anthropic went onstage at AIE World's Fair and gave a banger of a talk titled [Field Guide to Fable](https://ai.engineer/talks/9fubhllmsBU-field-guide-to-fable). In it, he speaks about how he works with this latest batch of frontier models, specifically Fable 5. The line of his that really stuck with me from this presentation is to 'Be Unreasonable'. This is such a gem of a line, and it's going to age very, very well for 2 distinct reasons. 
 
 
 > **#1** These models are _reasoning_ models. They're going to continue to eat away at tasks in software that demand reasonable mindsets. Bug fixes, developing a feature to spec, version updates, back testing - all of these pieces require reason. They won't discover novel ideas without getting nudged in the right direction, which brings me to my next point...

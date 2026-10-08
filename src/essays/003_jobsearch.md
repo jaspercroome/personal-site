@@ -35,7 +35,7 @@ This is the part that might lose some folks, but it's arguably the more importan
 
 Careers are long. The spikes of joy and excitement that come from a cool new job fade away over time, and jobs all revert to the mean. The Hedonic treadmill of life means that anything amazing (or terrible) drifts towards becoming normal everyday life after a bit. So how do you keep the vibes high? You give yourself something (or someone) to fight for.
 
-In sports, you'll hear about the coach who pins up a quote from the rival team in the lockerroom the week before a big game. Michael Jordan famously created beef with opposing players, to drive himself to play harder. Both of those things point to the same underlying psychological trick: When we have an external mtoiviating factor, it can push us further than just "I want to do a good job".
+In sports, you'll hear about the coach who pins up a quote from the rival team in the locker room the week before a big game. Michael Jordan famously created beef with opposing players, to drive himself to play harder. Both of those things point to the same underlying psychological trick: When we have an external motivating factor, it can push us further than just "I want to do a good job".
 
 And who better to motivate you, or to push for, than the person who took a chance on you in the first place? If you win, they win, and you owe it to them to at least try. But what does winning look like?
 
