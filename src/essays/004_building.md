@@ -11,7 +11,7 @@ I think that question measures the wrong output, and Professional Software not a
 
 ## Cadence is a human artifact
 
-At it's core, Professional Software Development is still mostly a conglomeration of human-driven processes. Teams that run agile spend time doing some form of: 
+At its core, Professional Software Development is still mostly a conglomeration of human-driven processes. Teams that run agile spend time doing some form of: 
 - Research
 - Ideation
 - Design
@@ -55,11 +55,11 @@ This is fine as you're iterating early on, but this thrashing gives your users p
 
 ## So, where's my AI-powered Professional Software?
 
-At Aarden, we've been able to ship a disruptive goespatial analysis tool in a little over a year. We have happy, paying customers. Here's the wild part:
+At Aarden, we've been able to ship a disruptive geospatial analysis tool in a little over a year. We have happy, paying customers. Here's the wild part:
 
 **we have 3 full time engineers on staff.** 
 
-One of us has been focused on data pipelines. Another has been owning the front-end product. A third (👋) has been focused on AI tooling and infrastructure. Alongside us, we have 6 expert teammmates, each individual with their own lane of expertise - strategy, commercial, design, energy systems, land value, business operations. Each person an expert, with their own full processes and workflows. 
+One of us has been focused on data pipelines. Another has been owning the front-end product. A third (👋) has been focused on AI tooling and infrastructure. Alongside us, we have 6 expert teammates, each individual with their own lane of expertise - strategy, commercial, design, energy systems, land value, business operations. Each person an expert, with their own full processes and workflows. 
 
 Professional Software Development is so much more than just building the thing. Assuming the entire team will speed up just because of one step being radically changed is short-sighted, and undervalues the importance of all the work that goes into building a great company. Empathy, rigor, creativity - these are all non-negotiables for building great products.
 
